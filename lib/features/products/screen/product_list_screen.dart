@@ -20,7 +20,7 @@ class ProductListScreen extends ConsumerWidget {
           backgroundColor: AppColors.roseWood , //text ke background ka color
           leading: Padding(padding:const EdgeInsetsGeometry.all(8),
             child: CircleAvatar(
-              backgroundImage: AssetImage("assets/image/img.png"),
+              backgroundImage: AssetImage("assets/image/img1.jpg"),
             ),
           ),
           centerTitle: true,
