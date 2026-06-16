@@ -84,14 +84,27 @@ flutter run
 
 ---
 
-## 📱 Screens
+### 🛍️ Product List Screen
 
-- **Product List Screen** — Browse all available cosmetic products
-- **Product Detail Screen** — View detailed information for a selected product
+Browse all available cosmetic products with a clean and luxury shopping experience.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c3080064-c369-4e30-8b12-3a4c335efe19" width="300"/>
+</p>
 
 ---
 
-## 🗺️ Roadmap
+### 💄 Product Detail Screen
+
+View detailed information about a selected product, including image, description, price, and rating.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dfbf0ed1-1d13-4b8e-a831-eae2a610dee4" width="300"/>
+  <img src="https://github.com/user-attachments/assets/8e902933-0370-4652-a613-1077a5c49565" width="300"/>
+</p>
+
+---
+
 
 - [ ] Add cart and checkout flow
 - [ ] Add search and filters
