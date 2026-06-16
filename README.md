@@ -123,7 +123,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 **Divyansh Mahor**
 
-- GitHub: [@your-github-username](https://github.com/your-github-username)
+- GitHub: [@your-github-username](https://github.com/your-github-DivyanshMahor)
 - LinkedIn: [https://www.linkedin.com/in/divyansh-mahor/]
 
 ---
